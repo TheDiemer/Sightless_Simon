@@ -8,13 +8,13 @@ The player uses the arrow keys to guess the “right” direction and then must 
 all of which are indicated by a sound.
 
 ===============
-This game was written for The University of Nirth Carolina at Chapel Hill's Maze Day 2014. 
+This game was written for The University of North Carolina at Chapel Hill's Maze Day 2014. 
 Maze Day is an event held every spring by Professor Gary Bishop, who invites students, professors and anyone from the area
 to invent devices, write programs, or develop games for people, specifically children with sight disabilities. 
 He then invites children from all over North Carolina, and at this point from the neighboring states as well, 
 to come to the University and try out these games, programs, and devices! 2014 was the tenth year this has happended.
 
-Myself, and two of my peers, Steven Walter, and Chris Holtshouser, Developed the game for Maze Day as it was one 
+Myself, and two of my peers: Steven Walter and Chris Holtshouser; developed the game for Maze Day as it was one 
 of many options to fulfill credit for a course. The three of us all wanted to develop a game and this is what we came up with.
 
 It was developed in Eclipse SDK using Java. The actual program is inside the src folder and all of the other parts are 
